@@ -21,6 +21,7 @@ def get_sum_n_largest_values_in_list(data, n):
 
 
 data = get_text_as_list('data.txt')
+
 print(get_sum_n_largest_values_in_list(data, 3))
 
 
